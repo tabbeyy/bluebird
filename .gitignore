@@ -1,0 +1,14 @@
+csv
+data
+results
+*.csv
+
+# Python
+env
+__pycache__
+
+# Vim
+*.swp
+*.swo
+*~
+
